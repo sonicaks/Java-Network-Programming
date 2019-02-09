@@ -3,3 +3,6 @@
 
 # Ignore temporary files
 *~
+
+# Ignore .class files
+*.class
